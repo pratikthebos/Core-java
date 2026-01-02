@@ -16,7 +16,7 @@ public class Addition {
 
         int sum = a + b;
 
-        System.out.println("Addition is " + sum);
+        System.out.println("Addition is =  " + sum);
 
         sc.close();
 
