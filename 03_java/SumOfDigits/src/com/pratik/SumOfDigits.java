@@ -6,7 +6,7 @@ public class SumOfDigits {
 
         int sum = 0;
 
-        num = Math.abs(num); // handle negative numbers
+        num = Math.abs(num); // handle negative numbers ok done ?
 
         while (num > 0) {
             sum += num % 10;
@@ -22,6 +22,6 @@ public class SumOfDigits {
 
         int result = sumDigits(number);
 
-        System.out.println("Sum of digits: " + result);
+        System.out.println("Sum of digits are :  " + result);
     }
 }
