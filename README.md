@@ -4,7 +4,7 @@
 
 
 
-today's I revised the oops concepts
-today's I started to learn spring boot
 
-ok
+
+
+today's I completed revision of oops concepts 
