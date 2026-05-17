@@ -5,6 +5,6 @@
 
 
 
-
+today's I read the C language 
 
 today's I completed revision of oops concepts 
