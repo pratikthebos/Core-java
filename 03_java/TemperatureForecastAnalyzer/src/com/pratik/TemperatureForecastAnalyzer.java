@@ -36,6 +36,6 @@ public class TemperatureForecastAnalyzer {
 
         for (int day : result) {
             System.out.print(day + " ");
-        }
+        }//updated code 
     }
 }
