@@ -14,3 +14,5 @@ today I learn the java file handling topic
 
 today I learn exception handling 
 today I learn java inheritance 
+
+today I learn JVM Architecture
