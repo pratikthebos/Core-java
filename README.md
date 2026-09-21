@@ -16,3 +16,5 @@ today I learn exception handling
 today I learn java inheritance 
 
 today I learn JVM Architecture
+today I learn java oops concept
+today I learn java low-level memory management,
