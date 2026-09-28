@@ -18,6 +18,8 @@ class Testing{
 		int o = 0xFace;
 		double d =0777;
 		
+		
+		
 		System.out.println(x+"  - "+y+"  - "+z +"  " + o +" "+d );
 	}
 }
