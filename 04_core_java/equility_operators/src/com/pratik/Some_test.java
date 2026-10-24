@@ -22,6 +22,8 @@ public class Some_test{
 	//---------------------------------------------------	
 		System.out.println(null == null);
 		
+		System.out.println(s==Object);
+		
 		
 	}
 }
