@@ -1,14 +1,3 @@
-//package com.pratik;
-//
-//public class Some_test {
-//
-//	public static void main(String[] args) {
-//		// TODO Auto-generated method stub
-//
-//	}
-//
-//}
-
 package com.pratik;
 public class Some_test{
 	

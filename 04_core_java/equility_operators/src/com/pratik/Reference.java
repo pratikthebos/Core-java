@@ -11,5 +11,9 @@ public class Reference{
 		
 		System.out.println(t1==t2);
 		System.out.println(t1==t3);
+		
+		Object o = new String();
+		
+		System.out.println(t1==o);
 	}
 }
