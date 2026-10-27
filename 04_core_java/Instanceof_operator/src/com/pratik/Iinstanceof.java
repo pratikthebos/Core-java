@@ -11,6 +11,8 @@ public class  Iinstanceof{
 		
 		//System.out.println(t instanceof String);
 		System.out.println(null instanceof Object);
+		
+		//System.out.println(t instanceof String);
 	}
 	
 	
