@@ -16,6 +16,8 @@ public class Relational{
 		//System.out.println("pratik"<"pradsgasdg");
 		System.out.println(10<20<30);
 		
+		System.out.println(34<54<54<54);
+		
 		
 		
 	}
