@@ -7,5 +7,7 @@ public class Bitewise_complement{
 		
 		//System.out.println(~true);
 		System.out.println(~4);
+		
+		System.out.println(~90);
 	}
 }
