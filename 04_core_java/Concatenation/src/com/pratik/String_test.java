@@ -29,6 +29,7 @@ public class String_test{
 	    a=a+b;
 	    
 	    System.out.println(a);
+	    System.out.println(a+b);
 	    
 	}
 }
