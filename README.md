@@ -22,3 +22,5 @@ today I learn java low-level memory management,
 today I learn X-OR operator 
 Today I learn bitwise and short circuit operator
 Todays learn exception handling revision 
+
+todays I learn the flow control control in java 
