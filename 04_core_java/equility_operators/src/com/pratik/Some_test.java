@@ -13,6 +13,8 @@ public class Some_test{
 		
 		System.out.println(s==Object);
 		
+		System.out.println("pratik"==Object);
+		
 		
 	}
 }
