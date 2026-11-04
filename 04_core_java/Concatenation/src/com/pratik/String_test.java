@@ -30,6 +30,7 @@ public class String_test{
 	    
 	    System.out.println(a);
 	    System.out.println(a+b);
+	    System.out.println(b+b);
 	    
 	}
 }
