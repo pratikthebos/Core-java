@@ -12,6 +12,10 @@ public class Equals{
 	System.out.println(s1==s2);
 	System.out.println(s1.equals(s2));
 	
+	Object o = new Object();
+	
+	System.out.println(s1==o);
+	
 	
 	}
 }
