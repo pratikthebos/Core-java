@@ -82,6 +82,15 @@ public class array{
 		System.out.println(x.getClass().getName());
 		
 		
+		int[][] b = new int [2][];
+		b[0] = new int[2];
+		b[1]=new int[3];
+		
+		System.out.println(b);
+		
+		System.out.println(b.getClass().getName());
+		
+		
 		
 		
 //		
