@@ -36,3 +36,5 @@ Todays i learn jdk
 today i learn Four Pillars of OOP
 
 Today i learn how to work jvm in java code .
+
+Today i learn the binary operator 
