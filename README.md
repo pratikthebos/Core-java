@@ -42,3 +42,5 @@ Today i learn the binary operator
 todays i learn the Syntax and Data Types.
 
 todays i learn Asynchronous Programming
+
+todays i learn  Thread-level exceptions
