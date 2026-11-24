@@ -54,3 +54,5 @@ todays i learn  Garbage Collection
 todays i learn the Classes, Objects & Constructors
 
 todays i learn the LinkedHashSet
+
+todyas i learn the Encapsulation, Inheritance, Polymorphism test
